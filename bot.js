@@ -688,4 +688,4 @@ client.on('message', message => {
   console.log('[id] Send By: ' + message.author.username)
     }
 });
-client.login("NDY5MTQ0MzI2NjE5MDA0OTQw.DjDcbg.eMvsYeqVZ0oCEbNkSD9Cqo-kRXo");
+client.login("BOT_TOKEN");
